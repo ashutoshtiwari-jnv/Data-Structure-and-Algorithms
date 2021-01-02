@@ -1,0 +1,1 @@
+{"name":"Local: 243_minimum_no_of_coin","url":"f:\\DSA_450 Complete\\Greedy\\243_minimum_no_of_coin.cpp","tests":[{"id":1608832846475,"input":"3\n4 0\n2 2 2 2\n6 3\n1 2 5 1 1 1\n6 3\n1 5 1 2 5 1","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA_450 Complete\\Greedy\\243_minimum_no_of_coin.cpp","group":"local","local":true}
