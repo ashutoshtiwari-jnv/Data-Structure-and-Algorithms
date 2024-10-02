@@ -4,5 +4,5 @@ This file will contain all the probelms related to array along with their soluti
 
 ## Difference of two array
 We are given two integer arrays, nums1 and nums2, and need to return a list of two lists. The first list has the elements that are present only in nums1, while the second list has the elements that are present only in nums2.
-<href>https://leetcode.com/problems/find-the-difference-of-two-arrays/description/</href>
-![Solution](./Array/9_diff_of_two_array_LC_2215.cpp)
+[Question Link:](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
+[Solution](./Array/9_diff_of_two_array_LC_2215.cpp)
