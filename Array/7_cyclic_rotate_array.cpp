@@ -19,7 +19,7 @@ int rotate_clockwise(int a[],int len)
 
  int main()
  {
-     int a[40],n;
+    int a[40],n;
     cout<<"Enter the length of the array:";
     cin>>n;
     cout<<"Enter the element of the array:";
