@@ -31,6 +31,7 @@ int main()
     {
         cout<<a[i]<<" ";
     }
+    cout<<endl;
     reverse_array(a,n);
     cout<<"The new reversed array is:";
     for(int i=0;i<n;i++)
