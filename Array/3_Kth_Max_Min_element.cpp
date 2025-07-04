@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-
+// Brute-Force Algorithm T(n) = O(Algo to sort the array)
 int Kth_Max(vector<int> v,int k)
 {
     int Kth_Max;
@@ -16,6 +16,7 @@ int Kth_Max(vector<int> v,int k)
 
 }
 
+// Brute-Force Algorithm T(n) = O(Algo to sort the array)
 int Kth_Min(vector<int> v,int k)
 {
     int Kth_Min;

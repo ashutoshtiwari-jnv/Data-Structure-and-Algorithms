@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Using Brute-Force algorithm T(n) = O(n)
 int Max(int a[],int len)
 {
     int max=0;
@@ -15,6 +16,7 @@ int Max(int a[],int len)
 return max;
 }
 
+// Using Brute-Force algorithm T(n) = O(n)
 int Min(int a[],int len)
 {
     int min=a[0];
