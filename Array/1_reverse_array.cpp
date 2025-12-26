@@ -3,8 +3,7 @@
 using namespace std;
 
 // if have a vector then use direct fuction reverse(v.begin(),v.end()) for reversing vector
-
-
+// Brute-Force algorithm T(n) = O(n/2)
 void reverse_array(int a[],int len)
 {
     for(int i=0;i<ceil(len/2);i++)
@@ -31,6 +30,7 @@ int main()
     {
         cout<<a[i]<<" ";
     }
+    cout<<endl;
     reverse_array(a,n);
     cout<<"The new reversed array is:";
     for(int i=0;i<n;i++)
