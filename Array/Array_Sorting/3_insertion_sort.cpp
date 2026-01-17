@@ -3,6 +3,13 @@
 
 using namespace std;
 
+/*
+    Insertion Sort: First Start from second element from the list. Traverse back and sift all elements to left
+        which is greater then the temp and insert this element to their place and so on.
+    TC = O(n^2)
+    SC = O(2)
+*/
+
 vector<int> insertion_sort(vector<int> arr){
     for(int i =0; i< arr.size()-1; i++){
         int j = i+1;
