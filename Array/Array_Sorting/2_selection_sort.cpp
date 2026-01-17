@@ -3,6 +3,12 @@
 
 using namespace std;
 
+/* 
+    Selection Sort= Select the min/max no from the array and put it in front/last. then go for next min/max and put it in second last/front so on.
+    TC = O(n^2)
+    SP = O(3)/O(2)
+    Only used for leaning purpose. Not for prod.
+*/
 vector<int> selection_sort(vector<int> arr){
     for(int i=0; i<arr.size(); i++){
         int min = arr[i];
